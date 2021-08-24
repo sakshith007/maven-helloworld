@@ -16,9 +16,9 @@
 
 
       <repository>
-        <id>maven-demo</id>
-        <name>maven-demo</name>
-        <url>http://34.125.71.204:8081/repository/maven-demo/</url>
+        <id>maven-demo123</id>
+        <name>maven-demo123</name>
+        <url>http://34.125.71.204:8081/repository/maven-demo123/</url>
       </repository>
 
   </distributionManagement>
